@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Social Platform
+
+![Social Platform](https://i.ibb.co/qs5DV7b/Social-Platform.png)
+
+## Introduction
+In this project I have used React and Material-UI components library to make mockup social platform. MakeStyles hook allowed me to fully customize components and make them responsive to different screen sizes.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
