@@ -1,4 +1,7 @@
 # Social Platform
+### [Live Site](https://social-ptalform-md-project.netlify.app/)
+
+https://social-ptalform-md-project.netlify.app/
 
 ![Social Platform](https://i.ibb.co/qs5DV7b/Social-Platform.png)
 
